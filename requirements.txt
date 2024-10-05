@@ -1,0 +1,4 @@
+pip install flax
+pip install tensorflow 
+pip install torch 
+pip install transformers
